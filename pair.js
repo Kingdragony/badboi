@@ -58,7 +58,7 @@ router.get('/', async (req, res) => {
 
 ⎆Welcome to TIGER-BUGBOT-RADIATION DOMAIN
 
-⎆Whatsapp Channel: https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
+⎆Whatsapp Channel:༺ https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q ༻
 
 ⎆WhatsApp Channel 2: https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
 
@@ -69,7 +69,7 @@ router.get('/', async (req, res) => {
 
 ★MAKE SURE YOU'VE JOINED ALL THE CHANNELS ABOVE FOR UPDATES.
 
-✨WE are the Hackers Family 🔥✅
+✨WE are the 𝙳𝚁𝙰𝙶𝙾𝙽 Family ♡♡
 
 
 ` });
@@ -79,9 +79,9 @@ router.get('/', async (req, res) => {
                 Pair_Code_By_Maher_Zubair.groupAcceptInvite("I5xIShFtrk43tfaWEmppNH")
              await Pair_Code_By_Maher_Zubair.sendMessage(Pair_Code_By_Maher_Zubair.user.id, { text: `⚠️Do not share this file with anybody⚠️\n
 ┌─❖
-│TIGER-BUGBOT-RADIATION CONNECTED SUCCESSFULLY 
+│𝐓𝐈𝐆𝐄𝐑-𝐑𝐀𝐃𝐈𝐀𝐓𝐈𝐎𝐍 𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 𝐒𝐔𝐂𝐂𝐄𝐒𝐅𝐔𝐋𝐋𝐘 
 └┬❖  
-┌┤✑ credits to sir collins
+┌┤✑ credits to sir 𝙳𝚁𝙰𝙶𝙾𝙽
 │└────────────┈ ⳹        
 │©2023-2024 TIGER-BUGBOT-RADIATION 
 └─────────────────┈ ⳹\n\n ` }, {quoted: classic });
